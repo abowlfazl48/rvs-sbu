@@ -67,7 +67,7 @@
             "port": 443,
             "users": [
               {
-                "id": "e85ba26e-e277-47ca-9e70-b64d86fa4b62",
+                "id": "c5246569-c547-4c85-a480-d838003a8bf9",
                 "encryption": "none",
                 "level": 8
               }
@@ -82,8 +82,8 @@
           "dialerProxy": "fragment"
         },
         "wsSettings": {
-          "host": "sorlot-sv7.lubowajy.workers.dev",
-          "path": "/ZDMrMURBg7V2U076?ed=2560"
+          "host": "TIght-ThUndeR4.qYTemA.workErS.dev",
+          "path": "/Index?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -91,7 +91,7 @@
           "alpn": [
             "http/1.1"
           ],
-          "serverName": "sOrLot-sv7.luBOWAJy.WORkErs.dEV"
+          "serverName": "TIght-ThUndeR4.qYTemA.workErS.dev"
         }
       },
       "tag": "proxy"
